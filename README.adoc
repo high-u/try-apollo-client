@@ -1,0 +1,46 @@
+:toc: left
+:toclevels: 5
+:sectlinks:
+:sectnums:
+:source-highlighter: coderay
+
+= try-apollo-client
+
+== Project setup
+
+[source,sh]
+----
+npm install
+----
+
+=== Compiles and hot-reloads for development
+
+[source,sh]
+----
+npm run serve
+----
+
+=== Compiles and minifies for production
+
+[source,sh]
+----
+npm run build
+----
+
+=== Run your tests
+
+[source,sh]
+----
+npm run test
+----
+
+=== Lints and fixes files
+
+[source,sh]
+----
+npm run lint
+----
+
+=== Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
